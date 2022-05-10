@@ -1,0 +1,33 @@
+
+body{
+    background-color: white !important;
+    width: 100%  !important;
+}
+.infobaground{
+  
+    background-color: rgba(2, 2, 2, 0.726);
+}
+.card-p > p{
+  font-size: 20px;
+}
+
+/* 
+.link{
+    color:white;
+    text-decoration: none;
+    font-weight: 800px;
+    font-size: 20px;
+}
+.link:hover{
+    color: rgb(82, 82, 175);
+     border-bottom: 1px solid blue;
+    padding: 3px;
+}
+.logo1{
+    color: white;
+    font-weight: 800px;
+    font-size: 30px;
+}
+.logo1:hover{
+   color: darkgoldenrod;
+} */
